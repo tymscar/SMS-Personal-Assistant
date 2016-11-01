@@ -1,6 +1,11 @@
 # SMS-Personal-Assistant
-**Want to find out something quick and you have no internet?** That was the motivation behind this project. Everything was coded in under 24 hours at the [Hackference](https://2016.hackference.co.uk/) Hackathon in [Birmingham, UK](https://en.wikipedia.org/wiki/Birmingham). 
+**Want to find out something quick and you have no internet?** That was the motivation behind this project. Everything was coded in under 24 hours at the [Hackference](https://2016.hackference.co.uk/) Hackathon in [Birmingham, UK](https://en.wikipedia.org/wiki/Birmingham). All copyrights belong to their respective owners. 
 
+
+# Tools used
+
+We have used [Microsoft's Apis](https://www.microsoft.com/cognitive-services/en-us/apis) alongside [Nexmo's api](https://www.nexmo.com/).
+For the translations we have used [Translate-shell](https://github.com/soimort/translate-shell). The webserver is [Flask](http://flask.pocoo.org/).
 
 # The team
 
